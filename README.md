@@ -3,6 +3,12 @@ This is a place where I document my projects as a data analysis student on the L
 
 ### Project Title: E Commerce Sales Analysis
 
+  - [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+
+
 ### Project Overview
 ---
 
@@ -26,6 +32,19 @@ In the initial phase of
 
 ```SQL
 SELECT * FROM TABLE 1
+WHERE TBLW= TRUE
 
 
-WHERE CONDITION= TRUE
+
+
+
+
+
+
+### Data Visualization
+
+[beauty in ugly words.docx](https://github.com/user-attachments/files/17169122/beauty.in.ugly.words.docx)
+
+Heading 1| Heading 2| Heading 3|
+|--------|----------|----------|
+|Table 1| Table 2| Table 3|
